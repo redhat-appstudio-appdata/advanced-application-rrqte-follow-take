@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/mreid1-tenant/advanced-application/devfile-sample-python-basic-10@sha256:a55879acacabeeabc95191006d5f7c6f09f4f04ce6de814d55e6f376830a6dca
+      - image: quay.io/redhat-user-workloads/mreid1-tenant/advanced-application/devfile-sample-python-basic-10@sha256:a04e599ad79d4681e868c29938cedbc5b8303652355b3ea1dcfbf1558f53549e
         name: my-python
         resources: {}
 status: {}
