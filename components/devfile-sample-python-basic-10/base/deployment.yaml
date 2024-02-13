@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: advanced-application
   name: devfile-sample-python-basic-10
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
